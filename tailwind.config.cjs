@@ -6,6 +6,8 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
+      sans: ['Mulish', 'sans-serif'],
+      serif: ['Playfair Display', 'serif'],
       'cursive': ['Homemade Apple', 'cursive']
     },
     extend: {
